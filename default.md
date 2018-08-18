@@ -1,3 +1,6 @@
+![](images/bitmap.png)
+
+
 英文原文地址：https://tools.ietf.org/html/rfc6749
 
 翻译者：老唐35 2018/8
