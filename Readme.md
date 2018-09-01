@@ -6,9 +6,9 @@
 
 
 下载  
-* [PDF 格式](raw/master/book.pdf)
-* [EPUB 格式](raw/master/book.epub)
-* [MOBI 格式](raw/master/book.mobi)
+* [PDF 格式](https://github.com/qunfanyi/rfc6749/raw/master/book.pdf)
+* [EPUB 格式](https://github.com/qunfanyi/rfc6749/raw/master/book.epub)
+* [MOBI 格式](https://github.com/qunfanyi/rfc6749/raw/master/book.mobi)
 
 ----
 
