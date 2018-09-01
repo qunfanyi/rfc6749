@@ -4,6 +4,14 @@
 《OAuth2 授权框架标准[RFC6749]》
 # **!!!!完成度 10%**
 
+
+下载  
+* [PDF 格式](raw/master/book.pdf)
+* [EPUB 格式](raw/master/book.epub)
+* [MOBI 格式](raw/master/book.mobi)
+
+----
+
 欢迎加入 qunfanyi.com 一块翻译 IT 技术文档 ，为中国 IT 贡献力量  
 
 
